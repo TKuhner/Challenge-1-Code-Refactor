@@ -27,19 +27,19 @@ The following technologies were used in the development of the Horiseon Marketin
 
 ## Installation
 
-    1. Clone the repository:
+1. Clone the repository:
 
-    ```bash
+    ```
     git clone git@github.com:TKuhner/Challenge-1-Code-Refactor.git
     ```
 
-    2. Navigate to the project directory:
+2. Navigate to the project directory:
 
-    ```bash
+    ```
     cd Challenge-1-Code-Refactor
     ```
 
-    3. Open the index.html file in your preferred web browser.
+3. Open the index.html file in your preferred web browser.
 
 ## Usage
 
